@@ -18,10 +18,11 @@ Despite significant investment in the UK's digital infrastructure, connectivity 
 ---
 
 ## 📁 Dataset
-**Source:** Ofcom Connected Nations 2025(ofcom.org.uk)
-**Data publication:** November 2025
-**Data analysis:** June 2026
-**Coverage:** 361 UK Local Authorities
+
+- **Source:** Ofcom Connected Nations 2025(ofcom.org.uk)
+- **Data publication:** November 2025
+- **Data analysis:** June 2026
+- **Coverage:** 361 UK Local Authorities
 
 The dataset includes:
 - Fixed broadband (LAUA level)
