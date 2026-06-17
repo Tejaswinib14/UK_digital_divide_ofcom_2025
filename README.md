@@ -95,8 +95,6 @@ This analysis reveals that significant connectivity disparities remain across UK
 
 ---
 
-## 👤 Author
-
 ## 👩‍💻 Author
 **Tejaswini Bhalerao**  
 Junior Data Analyst
