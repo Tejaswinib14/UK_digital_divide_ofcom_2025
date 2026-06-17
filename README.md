@@ -73,11 +73,11 @@ Major London boroughs demonstrate stronger connectivity performance than many ot
 
 ## 🎯 Recommendations
 
--Prioritize investment in local authorities failing the UK's 10 Mbps broadband standard.
--Focus intervention efforts on areas experiencing both poor broadband and weak mobile coverage.
--Improve indoor mobile coverage in regions with significant indoor-outdoor signal gaps.
--Expand gigabit broadband infrastructure beyond current high-performing authorities.
--Continue monitoring connectivity performance to support data-based infrastructure planning and digital inclusion initiatives.
+- Prioritize investment in local authorities failing the UK's 10 Mbps broadband standard.
+- Focus intervention efforts on areas experiencing both poor broadband and weak mobile coverage.
+- Improve indoor mobile coverage in regions with significant indoor-outdoor signal gaps.
+- Expand gigabit broadband infrastructure beyond current high-performing authorities.
+- Continue monitoring connectivity performance to support data-based infrastructure planning and digital inclusion initiatives.
 
 ---
 
