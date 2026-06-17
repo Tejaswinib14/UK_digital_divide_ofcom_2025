@@ -98,5 +98,4 @@ This analysis reveals that significant connectivity disparities remain across UK
 ## 👤 Author
 
 **Tejaswini Bhalerao**
-
-Aspiring Data Analyst | SQL | Tableau | Excel
+Junior Data Analyst | SQL | Tableau | Excel
