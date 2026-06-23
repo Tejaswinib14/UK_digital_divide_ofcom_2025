@@ -78,11 +78,11 @@ These recommendations would help operators and policymakers allocate resources m
 
 ## 🎯 Recommendations
 
-🔹 Prioritise infrastructure investment in local authorities with the highest concentration of premises below the UK's 10 Mbps Universal Service Obligation (USO) threshold, including urban areas where connectivity gaps may be overlooked.
-🔹 Target funding and network upgrades in dual-failure regions experiencing both poor broadband and weak mobile coverage to maximise improvements in digital inclusion and connectivity resilience.
-🔹 Improve indoor mobile coverage in areas with significant indoor–outdoor performance disparities through targeted network optimisation and infrastructure enhancements.
-🔹 Accelerate gigabit broadband deployment in underserved authorities to reduce regional connectivity inequalities and support future digital demand.
-🔹 Adopt a data-driven approach to infrastructure planning by continuously monitoring broadband and mobile performance metrics, enabling more effective investment decisions and improved customer outcomes.
+-🔹 Prioritise infrastructure investment in local authorities with the highest concentration of premises below the UK's 10 Mbps Universal Service Obligation (USO) threshold, including urban areas where connectivity gaps may be overlooked.
+-🔹 Target funding and network upgrades in dual-failure regions experiencing both poor broadband and weak mobile coverage to maximise improvements in digital inclusion and connectivity resilience.
+-🔹 Improve indoor mobile coverage in areas with significant indoor–outdoor performance disparities through targeted network optimisation and infrastructure enhancements.
+-🔹 Accelerate gigabit broadband deployment in underserved authorities to reduce regional connectivity inequalities and support future digital demand.
+-🔹 Adopt a data-driven approach to infrastructure planning by continuously monitoring broadband and mobile performance metrics, enabling more effective investment decisions and improved customer outcomes.
 
 ---
 
